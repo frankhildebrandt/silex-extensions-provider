@@ -1,0 +1,18 @@
+{
+    "name": "frankhildebrandt/silex-extensions-provider",
+    "description": "a silex 2 service provider to manage modular application extensions",
+    "require": {
+        "silex/silex": "2.0.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Frank Hildebrandt",
+            "email": "frank.hildebrandt@me.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
