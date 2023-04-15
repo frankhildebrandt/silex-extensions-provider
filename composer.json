@@ -3,7 +3,7 @@
     "description": "a silex 2 service provider to manage modular application extensions",
     "require": {
         "silex/silex": "2.0.*",
-        "pear/archive_tar": "1.3.11"
+        "pear/archive_tar": "1.4.14"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
